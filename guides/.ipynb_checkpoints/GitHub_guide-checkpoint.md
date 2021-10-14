@@ -1,4 +1,5 @@
 # Intention
+This guide is for poeople interested in using GitHub. I have briefly outlined how I personally use GitHub - there are other ways of using it and many ways of connecting it to other applications, but I believe my way is relatively straightforward and captures some of the main features of GitHub.
 
 # What is GitHub
 GitHub has 3 main uses:
@@ -27,7 +28,11 @@ Your changes should be displayed here. Green shows additions, red shows deletion
 
 * Write a summary of your changes
 * Hit "Commit to main"
-* Hit 
+* Hit "Push Origin"
+This 'pushes' your local files onto GitHub's servers, replacing your old files in that Repository.
+
+## Viewing Your Repository
+You can go to the GitHub site, login, navigate to your Repository, and see all your code/files there from any web browser. This is a great way to share content!
 
 # Installing GitHub Desktop
 Follow the instructions on the [GitHub Desktop site](https://desktop.github.com/)
